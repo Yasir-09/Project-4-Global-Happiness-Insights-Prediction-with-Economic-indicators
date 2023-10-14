@@ -28,7 +28,7 @@ Possible Reasons for Improved R2:
 Homogeneity: Developed countries tend to share more similarities in terms of social and economic factors, making it easier for a linear regression model to capture underlying trends.
 
 
-3. Random Forest Model (All Countries):
+3. Random Forest Model (Developed Countries):
 
 R2 Score: 90%
 Benefits:
