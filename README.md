@@ -14,6 +14,8 @@ Possible Reasons for Lower R2:
 
 High Variability: The mix of countries with diverse development levels resulted in high data variability, making it difficult for a linear model to fit a single line to all the data points.
 Data Quality: The presence of missing or limited data reduced the model's ability to make accurate predictions.
+
+
 2. Developed Countries Only - Linear Regression:
 
 R2 Score: 85%
@@ -24,6 +26,8 @@ Reduced Variability: Excluding underdeveloped and least developed countries redu
 Possible Reasons for Improved R2:
 
 Homogeneity: Developed countries tend to share more similarities in terms of social and economic factors, making it easier for a linear regression model to capture underlying trends.
+
+
 3. Random Forest Model (All Countries):
 
 R2 Score: 90%
