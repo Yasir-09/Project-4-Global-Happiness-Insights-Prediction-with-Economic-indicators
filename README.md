@@ -65,12 +65,12 @@ R2 Score: 90%
 Non-Linear Relationships: Random Forest is an ensemble model capable of capturing non-linear relationships and interactions between variables.
 Robustness: Random Forest is less sensitive to outliers and data noise, which is beneficial in dealing with the high variability in the comprehensive dataset.
 
-Possible Reasons for Highest R2:
+**Possible Reasons for Highest R2:**
 
 Capturing Complexity: Random Forest's ability to consider complex interactions between features and its resilience to data noise allowed it to model the happiness data more accurately.
 Flexibility: The random forest model can handle both linear and non-linear relationships, which is especially useful when dealing with data from various countries with differing characteristics.
 
-Key Takeaways:
+**Key Takeaways:**
 
 Dataset choice, data quality, and variability significantly impact model performance.
 Linear regression is a useful starting point, but real-world data often contains non-linear complexities that require more advanced models.
