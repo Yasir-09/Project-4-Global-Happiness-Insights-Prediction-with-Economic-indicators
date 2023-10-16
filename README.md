@@ -1,14 +1,14 @@
 # Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators
 ![Global Happiness Insights](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/6fd445ac-9fe0-416f-9c4c-62ef06060fa8)
 
-
+**INTRODUCTION:**
 This project leverages advanced data analytics, machine learning, and visualization techniques to provide actionable insights for a happier world.
 The purpose of this project is to increase understanding of global happiness and well-being by leveraging advanced data analytics, machine learning, and visualization techniques, ultimately providing actionable insights for a happier world. 
 By analyzing large datasets and applying machine learning algorithms, we can uncover patterns and factors that contribute to happiness scores. These predictive models can help identify key drivers of happiness and inform policy decisions aimed at improving well-being worldwide. 
 
 The interactive Tableau Visualization Dashboard will allow users to explore happiness trends across different countries and time periods, enabling a deeper understanding of the factors that influence happiness levels. 
 
-**Problem Statement**
+**PROBLEM STATEMENT:**
 Understanding factors contributing to human happiness is crucial for policymakers, researchers, and society. The World Happiness Report dataset provides valuable insights into global happiness trends, but it also presents challenges that need to be addressed. Addressing these challenges is essential for a more comprehensive understanding of happiness. Moreover, how economic factors effect the happiness score.
 
 ## OUR TEAM:
