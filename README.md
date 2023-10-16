@@ -1,5 +1,6 @@
 # Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators
-https://www.visualcapitalist.com/wp-content/uploads/2022/03/OC_GlobalHappiness_Main-1.jpg
+![OC_GlobalHappiness_Main-1](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/b128adb9-16d8-46ae-b55f-f94a6a47728b)
+
 
 This project leverages advanced data analytics, machine learning, and visualization techniques to provide actionable insights for a happier world.
 
@@ -56,5 +57,8 @@ Random Forest, being a flexible and robust ensemble method, is particularly effe
 In practice, consider data preprocessing, feature engineering, and hyperparameter tuning to further enhance model performance. Additionally, use cross-validation and other evaluation metrics for a comprehensive model assessment.
 
 
+References and Attributes:
 
+World Happiness Picture atttibutes : wwww.VisualCapital.com 
+https://www.visualcapitalist.com/mapped-global-happiness-levels-in-2022/
 
