@@ -1,4 +1,5 @@
-![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/d26c7495-16b8-4c90-9b29-dc8c2ae76e00)![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/8c6d6879-841e-4d78-819d-b33e5d89c720)![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/26aee66f-856e-409a-b587-6f6ea358c012)# Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators
+# Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators
+![Global Happiness Insights](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/6fd445ac-9fe0-416f-9c4c-62ef06060fa8)
 
 
 This project leverages advanced data analytics, machine learning, and visualization techniques to provide actionable insights for a happier world.
@@ -17,7 +18,7 @@ Understanding factors contributing to human happiness is crucial for policymaker
 3.	Penyaree Wening (Data Analyst + Project Manager)
 4.	Ninad Pandya (Data Analyst + Project Manager)
 
-**SQL Analaysis:**
+## SQL ANALYSIS:
 SQL analysis discovered my facts from the cleaned and curated dataset for this project: Our main findings were to answers the following questions:
 
 * Which region has the happier countries and least happy countries?>
@@ -25,10 +26,9 @@ SQL analysis discovered my facts from the cleaned and curated dataset for this p
 * What is the average inflation rate as per regions and development status from the 12 year dataset?
 * What is the average unemployment rate as per regions and development status from the 12 year dataset?
 
-
+## MACHINE LEARNING:
 **MACHINE LEARNING MODELS:** 
-1. Model Analysis Based on Happiness Data
-*A. Comprehensive Data Set (All Countries) - Linear Regression:*
+1. *Model Analysis Based on Happiness Data. Comprehensive Data Set (All Countries) - Linear Regression:*
 
 R2 Score: 76%
 Challenges:
@@ -41,7 +41,7 @@ High Variability: The mix of countries with diverse development levels resulted 
 Data Quality: The presence of missing or limited data reduced the model's ability to make accurate predictions.
 
 
-2. Developed Countries Only - Linear Regression:
+2. *Developed Countries Only - Linear Regression:*
 
 R2 Score: 85%
 Benefits:
@@ -53,10 +53,10 @@ Possible Reasons for Improved R2:
 Homogeneity: Developed countries tend to share more similarities in terms of social and economic factors, making it easier for a linear regression model to capture underlying trends.
 
 
-3. Random Forest Model (Developed Countries):
+3. *Random Forest Model (Developed Countries):*
 
 R2 Score: 90%
-Benefits:
+**Benefits:**
 
 Non-Linear Relationships: Random Forest is an ensemble model capable of capturing non-linear relationships and interactions between variables.
 Robustness: Random Forest is less sensitive to outliers and data noise, which is beneficial in dealing with the high variability in the comprehensive dataset.
@@ -71,8 +71,9 @@ Linear regression is a useful starting point, but real-world data often contains
 Random Forest, being a flexible and robust ensemble method, is particularly effective in capturing complex patterns and improving predictive accuracy.
 In practice, consider data preprocessing, feature engineering, and hyperparameter tuning to further enhance model performance. Additionally, use cross-validation and other evaluation metrics for a comprehensive model assessment.
 
+## TABLEAU VISUALIZATIONS AND DASHBOARD:
 
-**References:**
+## REFERENCES:
 
 **Sources of data:** 
 Happiness Dataset: https://worldhappiness.report/data/
@@ -81,8 +82,4 @@ Unemployment Dataset: https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS
 
 CPI dataset: https://tinyurl.com/248hffft
 
-**Attributes:**
-World Happiness Picture atttibutes : wwww.VisualCapital.com 
-
-https://www.visualcapitalist.com/mapped-global-happiness-levels-in-2022/
 
