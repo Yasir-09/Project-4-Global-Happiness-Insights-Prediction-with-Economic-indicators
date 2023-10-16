@@ -1,5 +1,4 @@
 ![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/d26c7495-16b8-4c90-9b29-dc8c2ae76e00)![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/8c6d6879-841e-4d78-819d-b33e5d89c720)![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/26aee66f-856e-409a-b587-6f6ea358c012)# Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators
-![OC_GlobalHappiness_Main-1](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/b128adb9-16d8-46ae-b55f-f94a6a47728b)
 
 
 This project leverages advanced data analytics, machine learning, and visualization techniques to provide actionable insights for a happier world.
@@ -11,7 +10,7 @@ The interactive Tableau Visualization Dashboard will allow users to explore happ
 **Problem Statement**
 Understanding factors contributing to human happiness is crucial for policymakers, researchers, and society. The World Happiness Report dataset provides valuable insights into global happiness trends, but it also presents challenges that need to be addressed. Addressing these challenges is essential for a more comprehensive understanding of happiness. Moreover, how economic factors effect the happiness score.
 
-
+## OUR TEAM:
 **MEMBERS AND ROLES ASSIGNED:**
 1.	Yasir Ali Soomro (Data Engineer + Project Manager)
 2.	Parshant Mahajan (Data Scientist + Project Manager)
@@ -21,10 +20,10 @@ Understanding factors contributing to human happiness is crucial for policymaker
 **SQL Analaysis:**
 SQL analysis discovered my facts from the cleaned and curated dataset for this project: Our main findings were to answers the following questions:
 
-<Q1. Which region has the happier countries and least happy countries?>
-<Q2. Which are ten happier and ten least happier countries in year 2022?>
-<Q3. What is the average inflation rate as per regions and development status from the 12 year dataset?>
-<Q4. What is the average unemployment rate as per regions and development status from the 12 year dataset?>
+* Which region has the happier countries and least happy countries?>
+* Which are ten happier and ten least happier countries in year 2022?>
+* What is the average inflation rate as per regions and development status from the 12 year dataset?
+* What is the average unemployment rate as per regions and development status from the 12 year dataset?
 
 
 **MACHINE LEARNING MODELS:** 
