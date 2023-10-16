@@ -18,6 +18,10 @@ Understanding factors contributing to human happiness is crucial for policymaker
 3.	Penyaree Wening (Data Analyst + Project Manager)
 4.	Ninad Pandya (Data Analyst + Project Manager)
 
+## DATA CLEANING:
+
+Data Cleaning: The World Happiness Report dataset is vast and contained missing values, outliers, or inconsistencies. Cleaning and preprocessing this data was a critical first step to ensuring its quality and reliability for analysis. Data cleaning was performed on Python using Pandas and Numpy dictionaries. Dataset of Unemployment and Inflation (CPI) rate were cleanned, filtered for desired years to match the happiness dataset. New columns of development status and Regions were added by categorizing the countries and dataset were merged and null values were removed.
+
 ## SQL ANALYSIS:
 SQL analysis discovered my facts from the cleaned and curated dataset for this project: Our main findings were to answers the following questions:
 
@@ -44,8 +48,8 @@ Data Quality: The presence of missing or limited data reduced the model's abilit
 2. *Developed Countries Only - Linear Regression:*
 
 R2 Score: 85%
-Benefits:
 
+Benefits:
 Data Quality: Focusing solely on developed countries improved data quality by reducing the impact of missing or limited data.
 Reduced Variability: Excluding underdeveloped and least developed countries reduced data variability, making it easier for a linear regression model to establish meaningful correlations.
 Possible Reasons for Improved R2:
@@ -56,14 +60,16 @@ Homogeneity: Developed countries tend to share more similarities in terms of soc
 3. *Random Forest Model (Developed Countries):*
 
 R2 Score: 90%
-**Benefits:**
 
+**Benefits:**
 Non-Linear Relationships: Random Forest is an ensemble model capable of capturing non-linear relationships and interactions between variables.
 Robustness: Random Forest is less sensitive to outliers and data noise, which is beneficial in dealing with the high variability in the comprehensive dataset.
+
 Possible Reasons for Highest R2:
 
 Capturing Complexity: Random Forest's ability to consider complex interactions between features and its resilience to data noise allowed it to model the happiness data more accurately.
 Flexibility: The random forest model can handle both linear and non-linear relationships, which is especially useful when dealing with data from various countries with differing characteristics.
+
 Key Takeaways:
 
 Dataset choice, data quality, and variability significantly impact model performance.
@@ -72,6 +78,7 @@ Random Forest, being a flexible and robust ensemble method, is particularly effe
 In practice, consider data preprocessing, feature engineering, and hyperparameter tuning to further enhance model performance. Additionally, use cross-validation and other evaluation metrics for a comprehensive model assessment.
 
 ## TABLEAU VISUALIZATIONS AND DASHBOARD:
+
 
 ## REFERENCES:
 
