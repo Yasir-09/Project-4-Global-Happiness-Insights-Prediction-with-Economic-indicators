@@ -25,8 +25,8 @@ Data Cleaning: The World Happiness Report dataset is vast and contained missing 
 ## SQL ANALYSIS:
 SQL analysis discovered my facts from the cleaned and curated dataset for this project: Our main findings were to answers the following questions:
 
-* Which region has the happier countries and least happy countries?>
-* Which are ten happier and ten least happier countries in year 2022?>
+* Which region has the happier countries and least happy countries?
+* Which are ten happier and ten least happier countries in year 2022?
 * What is the average inflation rate as per regions and development status from the 12 year dataset?
 * What is the average unemployment rate as per regions and development status from the 12 year dataset?
 
