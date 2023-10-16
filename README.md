@@ -3,14 +3,19 @@
 
 
 This project leverages advanced data analytics, machine learning, and visualization techniques to provide actionable insights for a happier world.
+The purpose of this project is to increase understanding of global happiness and well-being by leveraging advanced data analytics, machine learning, and visualization techniques, ultimately providing actionable insights for a happier world. 
+By analyzing large datasets and applying machine learning algorithms, we can uncover patterns and factors that contribute to happiness scores. These predictive models can help identify key drivers of happiness and inform policy decisions aimed at improving well-being worldwide. 
 
-MEMBERS AND ROLES ASSIGNED:
+The interactive Tableau Visualization Dashboard will allow users to explore happiness trends across different countries and time periods, enabling a deeper understanding of the factors that influence happiness levels. 
+![image](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/315a2600-d0a5-4fc7-9523-bb5c5ff773f9)
+
+**MEMBERS AND ROLES ASSIGNED:**
 1.	Yasir Ali Soomro (Data Engineer + Project Manager)
 2.	Parshant Mahajan (Data Scientist + Project Manager)
 3.	Penyaree Wening (Data Analyst + Project Manager)
 4.	Ninad Pandya (Data Analyst + Project Manager)
 
-
+**Machine Learning Models:** 
 1. Model Analysis Based on Happiness Data
 
 A. Comprehensive Data Set (All Countries) - Linear Regression:
