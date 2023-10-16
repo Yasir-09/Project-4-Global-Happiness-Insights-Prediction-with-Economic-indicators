@@ -21,10 +21,10 @@ Understanding factors contributing to human happiness is crucial for policymaker
 **SQL Analaysis:**
 SQL analysis discovered my facts from the cleaned and curated dataset for this project: Our main findings were to answers the following questions:
 
-Q1. Which region has the happier countries and least happy countries?
-Q2. Which are ten happier and ten least happier countries in year 2022?
-Q3. What is the average inflation rate as per regions and development status from the 12 year dataset?
-Q4. What is the average unemployment rate as per regions and development status from the 12 year dataset?
+<Q1. Which region has the happier countries and least happy countries?>
+<Q2. Which are ten happier and ten least happier countries in year 2022?>
+<Q3. What is the average inflation rate as per regions and development status from the 12 year dataset?>
+<Q4. What is the average unemployment rate as per regions and development status from the 12 year dataset?>
 
 
 **MACHINE LEARNING MODELS:** 
@@ -77,10 +77,13 @@ In practice, consider data preprocessing, feature engineering, and hyperparamete
 
 **Sources of data:** 
 Happiness Dataset: https://worldhappiness.report/data/
+
 Unemployment Dataset: https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS
+
 CPI dataset: https://tinyurl.com/248hffft
 
 **Attributes:**
 World Happiness Picture atttibutes : wwww.VisualCapital.com 
+
 https://www.visualcapitalist.com/mapped-global-happiness-levels-in-2022/
 
