@@ -1,14 +1,13 @@
 # Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators
+https://www.visualcapitalist.com/wp-content/uploads/2022/03/OC_GlobalHappiness_Main-1.jpg
+
 This project leverages advanced data analytics, machine learning, and visualization techniques to provide actionable insights for a happier world.
 
 MEMBERS AND ROLES ASSIGNED:
 1.	Yasir Ali Soomro (Data Engineer + Project Manager)
-2.	
-3.	Parshant Mahajan (Data Scientist + Project Manager)
-4.	
-5.	Penyaree Wening (Data Analyst + Project Manager)
-6.	
-7.	Ninad Pandya (Data Analyst + Project Manager)
+2.	Parshant Mahajan (Data Scientist + Project Manager)
+3.	Penyaree Wening (Data Analyst + Project Manager)
+4.	Ninad Pandya (Data Analyst + Project Manager)
 
 
 1. Model Analysis Based on Happiness Data
