@@ -79,6 +79,15 @@ In practice, consider data preprocessing, feature engineering, and hyperparamete
 
 ## TABLEAU VISUALIZATIONS AND DASHBOARD:
 
+![Main Dash Board](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/7cbea73a-872c-4a2a-9d06-9ca06d9b458b)
+Link for Interactive live Dashboards: https://public.tableau.com/app/profile/avni.thakor/viz/WorldHappiness_maindash/MainDashBoard?publish=yes
+
+![CAN_DASH](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/582f1c6e-1e3c-4336-91f1-aaa928907396)
+
+Link for Interactive live Dashboards: https://public.tableau.com/app/profile/avni.thakor/viz/WorldHappiness_candash/CAN_DASH?publish=yes
+![HAPPINESS   VARIABLES](https://github.com/Yasir-09/Project-4-Global-Happiness-Insights-Prediction-with-Economic-indicators/assets/131497346/a752497d-8aec-4c32-8e68-8bd919c8dfd6)
+Link for Interactive live Dashboards: https://public.tableau.com/app/profile/avni.thakor/viz/WorldHappiness_happinessvariables/HAPPINESSVARIABLES?publish=yes
+
 
 ## REFERENCES:
 
